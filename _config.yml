@@ -5,6 +5,45 @@ author:             yoons
 baseurl:            ""
 url:                "https://yoonseok0323.github.io"
 
+
+# Site Settings
+locale                   : "en-US"
+title                    : "stack_coding"
+title_separator          : "-"
+subtitle                 : # site tagline that appears below site title in masthead
+name                     : "Yoon"
+description              : "coding_knowlege_repository."
+url                      : "https://syh39.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : # the subpath of your site, e.g. "/blog"
+repository               : 
+teaser                   : 
+logo                     : 
+masthead_title           : 
+
+# breadcrumbs            : false # true, false (default)
+words_per_minute         : 200
+comments:
+  provider               : 
+    disqus:
+    shortname            :
+    discourse:
+    server               : 
+  facebook:
+   
+    appid                :
+    num_posts            : # 5 (default)
+    colorscheme          : # "light" (default), "dark"
+  utterances:
+    theme                : 
+    issue_term           : # "pathname" (default)
+  staticman:
+    branch               : # "master"
+    endpoint             : # "https://{your Staticman v3 API}/v3/entry/github/"
+reCaptcha:
+  siteKey                :
+  secret                 :
+atom_feed:
+
 # Social Profiles
 twitter_username:   
 github_username:    yoonseok0323
