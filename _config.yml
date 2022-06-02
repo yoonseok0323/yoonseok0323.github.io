@@ -1,14 +1,14 @@
-title:              Clean Blog
+title:              Yoons'TIL_Blog
 email:              yoonrock02@gmail.com
-description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
+description:        coding_knowledge_repository
+author:             yoons
 baseurl:            ""
 url:                "https://yoonseok0323.github.io"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
+twitter_username:   
+github_username:    yoonseok0323
+facebook_username:  
 instagram_username:  
 linkedin_username:
 
