@@ -1,5 +1,5 @@
 ---
-title:  "Python 기초 문법"
+title:  "Python"
 excerpt: "python 기초 문법 정리 내용 "
 
 categories:
