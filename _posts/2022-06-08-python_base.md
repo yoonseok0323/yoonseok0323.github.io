@@ -1,3 +1,20 @@
+---
+title:  "Python 기초 문법"
+excerpt: "python 기초 문법 정리 내용 "
+
+categories:
+  - python
+tags:
+  - python
+
+toc: true
+toc_sticky: true
+ 
+date: 2022-06-08
+last_modified_at: 2022-06-08
+---
+
+
 # Python
 
 종류: 강의, 헷갈리는 개념정리
@@ -514,3 +531,4 @@ print(b.name)
 ```
 
 -
+
